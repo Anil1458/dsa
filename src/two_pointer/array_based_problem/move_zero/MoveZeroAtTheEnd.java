@@ -1,4 +1,4 @@
-package two_pointer.move_zero;
+package two_pointer.array_based_problem.move_zero;
 
 import java.util.Arrays;
 
